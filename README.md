@@ -1,15 +1,14 @@
 
 <p align="center">
-  ## Experience 
-</p>
+   
 
 <p align="center"><img src="header.png"></p>
 
 <p align="center">
-  <a href="https://twitter.com/shreyasgite"><img src="https://img.shields.io/badge/Twitter-6054-34A1F2.svg" alt="Twitter"></a>
-  <a href="https://medium.com/@shreyas.gite"><img src="https://img.shields.io/badge/Medium-4256-71EF8E.svg" alt="Medium"></a>
+  <a href="https://twitter.com/shreyasgite"><img src="https://img.shields.io/badge/Twitter-85-34A1F2.svg" alt="Twitter"></a>
+  <a href="https://medium.com/@shreyas.gite"><img src="https://img.shields.io/badge/Medium-144-71EF8E.svg" alt="Medium"></a>
   <a href="shreyas.gite@gmail.com"><img src="https://img.shields.io/badge/Email-sg%40protonmail.com-red.svg" alt="Email"></a>
-  <a href="https://github.com/shreyasgite"><img src="https://img.shields.io/badge/GitHub-1012-000000.svg" alt="GitHub"></a>
+  <a href="https://github.com/shreyasgite"><img src="https://img.shields.io/badge/GitHub-9-000000.svg" alt="GitHub"></a>
 
 
 </p>
@@ -18,7 +17,7 @@
 
 Shreyas is a Machine Learning Engineer, currently exploring predictive models and reinforcement learning at Kopernikus Automotive. 
 
-Open to commissions and collaborations: shreyasgite@protonmail.com
+Open to collaborations: sg@protonmail.com
 
 
 
@@ -29,8 +28,8 @@ Open to commissions and collaborations: shreyasgite@protonmail.com
 
 I was the 1st employee and worked with founders from building the concept and team to first drive software.
 Now a leading a ML team for 
-- Level 2+ highway pilot for one of the German Luxury car manufacturers.
-- Level 4 system for confined environments for one of the German Luxury car manufacturers.
+- Level 4 system for one of the biggest car manufacturers.
+- Level 4 system for private environments for Porsche.
 
 --- 
 
@@ -98,22 +97,21 @@ Basically the job that Mark Wahlberg did in the movie [Deepwater Horizon.](https
 ### Languages & Frameworks
 
 - Python
-- Tensorflow
 - Pytorch
+- Tensorflow
 - Keras
 - C++
 
 ### Platforms
 
-- FloydHub
 - Google Cloud Platform
-- Digital Ocean
 - AWS
+- Paperspace
 
-### Design
+### Game Engine
 
-- Sketch
-- Photoshop
+- Unity
+- Unreal Engine 4
 
 ---
 
