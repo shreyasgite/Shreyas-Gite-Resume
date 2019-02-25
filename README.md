@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://twitter.com/shreyasgite"><img src="https://img.shields.io/badge/Twitter-85-34A1F2.svg" alt="Twitter"></a>
   <a href="https://medium.com/@shreyas.gite"><img src="https://img.shields.io/badge/Medium-144-71EF8E.svg" alt="Medium"></a>
-  <a href="shreyas.gite@gmail.com"><img src="https://img.shields.io/badge/Email-sg%40protonmail.com-red.svg" alt="Email"></a>
+  <a href="shreyas.gite@gmail.com"><img src="https://img.shields.io/badge/Email-shreyasgite%40protonmail.com-red.svg" alt="Email"></a>
   <a href="https://github.com/shreyasgite"><img src="https://img.shields.io/badge/GitHub-9-000000.svg" alt="GitHub"></a>
 
 
@@ -17,7 +17,7 @@
 
 Shreyas is a Machine Learning Engineer, currently exploring predictive models and reinforcement learning at Kopernikus Automotive. 
 
-Open to collaborations: sg@protonmail.com
+Open to collaborations: shreyasgite@protonmail.com
 
 
 
