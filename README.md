@@ -15,21 +15,21 @@
 
 ---
 
-Shreyas is a Machine Learning Engineer, currently exploring predictive models and reinforcement learning at Kopernikus Automotive. 
+Shreyas is a Machine Learning Engineer, currently exploring predictive models, procedural content generation and reinforcement learning at Kopernikus Automotive.
 
 Open to collaborations: shreyasgite@protonmail.com
 
 
 
-## Experience
+## Work
 
 #### Autonomous Driving Lead, [Kopernikus Automotive](https://www.kopernikusauto.com)
 ##### Jun 2017 - Present  | Berlin Area, Germany
 
-I was the 1st employee and worked with founders from building the concept and team to first drive software.
-Now a leading a ML team for 
+I was the 1st employee and work closely with founders, building the concept and the team.
+Leading an AI team for 
 - Level 4 system for one of the biggest car manufacturers.
-- Level 4 system for private environments for Porsche.
+- Level 4 system for private environments at Porsche.
 
 --- 
 
@@ -43,8 +43,7 @@ Worked with extremely smart people on building the understanding of reinforcemen
 #### Founder Organiser, [Autonomous Mobility Meetup](https://www.meetup.com/autonomous-mobility-berlin/)
 ##### Dec 2016 - Present | Berlin Area, Germany
 
-Started a community around autonomous mobility to promote coordination and collaboration in Berlin.
-The community has now grown to more than 1000 people with regular monthly workshops and robocar races.
+Started a community around autonomous mobility to create talent and kickstart a community in Berlin around autonomous vehicles. The community has now grown to more than 1000 participants with regular workshops, [robocar races](http://deep-berlin.ai/robocars/), and lead to few new [startups](https://brighter.ai) in the domain. 
 
 ---
 
@@ -108,7 +107,7 @@ Basically the job that Mark Wahlberg did in the movie [Deepwater Horizon.](https
 - AWS
 - Paperspace
 
-### Game Engine
+### Game Engines
 
 - Unity
 - Unreal Engine 4
