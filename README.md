@@ -21,7 +21,7 @@ Open to collaborations: shreyasgite@protonmail.com
 
 
 
-## Experience gmail.com
+## Experience
 
 #### Autonomous Driving Lead, [Kopernikus Automotive](https://www.kopernikusauto.com)
 ##### Jun 2017 - Present  | Berlin Area, Germany
