@@ -5,10 +5,10 @@
 <p align="center"><img src="header.png"></p>
 
 <p align="center">
-  <a href="https://twitter.com/shreyasgite"><img src="https://img.shields.io/badge/Twitter-85-34A1F2.svg" alt="Twitter"></a>
+  <a href="https://twitter.com/shreyasgite"><img src="https://img.shields.io/badge/Twitter-90-34A1F2.svg" alt="Twitter"></a>
   <a href="https://medium.com/@shreyas.gite"><img src="https://img.shields.io/badge/Medium-144-71EF8E.svg" alt="Medium"></a>
   <a href="shreyasgite@gmail.com"><img src="https://img.shields.io/badge/Email-shreyasgite%40gmail.com-red.svg" alt="Email"></a>
-  <a href="https://github.com/shreyasgite"><img src="https://img.shields.io/badge/GitHub-9-000000.svg" alt="GitHub"></a>
+  <a href="https://github.com/shreyasgite"><img src="https://img.shields.io/badge/GitHub-13-000000.svg" alt="GitHub"></a>
 
 
 </p>
@@ -29,7 +29,7 @@ Open to collaborations: shreyasgite@gmail.com
 I was the 1st employee and work closely with founders, building the concept and the team.
 Leading an AI team for 
 - Level 4 system for one of the biggest car manufacturers.
-- Level 4 system for private environments at Porsche.
+- Level 4 system for private environments at [Porsche AG.](https://newsroom.porsche.com/en/2019/digital/porsche-autonomous-driving-workshop-cooperation-kopernikus-automotive-startup-autobahn-17014.html)
 
 --- 
 
@@ -40,7 +40,7 @@ Worked with extremely smart people on building the understanding of reinforcemen
 
 ---
 
-#### Founder Organiser, [Autonomous Mobility Meetup](https://www.meetup.com/autonomous-mobility-berlin/)
+#### Founder and Chief Organiser, [Autonomous Mobility Meetup](https://www.meetup.com/autonomous-mobility-berlin/)
 ##### Dec 2016 - Present | Berlin Area, Germany
 
 Started a community around autonomous mobility to create talent and kickstart a community in Berlin around autonomous vehicles. The community has now grown to more than 1000 participants with regular workshops, [robocar races](http://deep-berlin.ai/robocars/), and lead to few new [startups](https://brighter.ai) in the domain. 
